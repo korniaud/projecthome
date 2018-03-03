@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        ahah
+        ahah ohoh
         <?php
         // put your code here
         ?>
